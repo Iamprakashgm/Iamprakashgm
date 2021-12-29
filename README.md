@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Prakash Gharti Magar
-- 👀 I’m interested in Programming, Surveying, GIS, Remote Sensing, Photogrammetry, Cartography
+- 👀 I’m interested in Programming, Surveying, GIS, Remote Sensing, Photogrammetry, Cartography, GNSS
 - 🌱 I’m currently learning Undergraduate Geomatics Engineering Student
 - 💞️ I’m just trying to adjust with new technology
 - 📫 How to reach me ...
