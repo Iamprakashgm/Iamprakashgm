@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prakash Gharti Magar
 - 👀 I’m interested in Programming, Surveying, GIS, Remote Sensing, Photogrammetry, Cartography, GNSS
-- 🌱 I’m currently learning Undergraduate Geomatics Engineering Student
+- 🌱 I’m currently studying Undergraduate Geomatics Engineering at Pashchimanchal Campus, IOE, TU
 - 💞️ I’m just trying to adjust with new technology
 - 📫 How to reach me ...
 - facebook.com/iamprakashgm
