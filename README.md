@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://github.com/Iamprakashgm/Iamprakashgm/blob/main/pngegg.png" width="150">Hey There!!! 👋 Its Prakash Gharti Magar<img src="https://github.com/Iamprakashgm/Iamprakashgm/blob/main/pngegg(2).png" width="150"></h1>
+<h1 align="center"><img src="https://github.com/Iamprakashgm/Iamprakashgm/blob/main/pngegg.png" width="100">Hey There!!! 👋 Its Prakash Gharti Magar<img src="https://github.com/Iamprakashgm/Iamprakashgm/blob/main/pngegg(2).png" width="100"></h1>
 <h3 align="center">Geomatics Engineering Student | WebGIS Developer | Spatial Data Science | Earth Observation</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamprakashgm&label=Profile%20views&color=0e75b6&style=flat" alt="iamprakashgm" /> </p>
