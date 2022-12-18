@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **GeoDjango**
 
-- 👨‍💻 All of my projects are available at [https://prakashgm.com.np/portfolio.html](https://prakashgm.com.np/portfolio.html)
+- 👨‍💻 My projects are available at [This Link](https://prakashgm.com.np/portfolio.html)
 
 - 💬 Ask me about **Python, Remote Sensing, GIS, GNSS, Cartography, Photogrammetry**
 
-- 📫 How to reach me **pas075bge029@wrc.edu.np**
+- 📫 Get in Touch through [Email](pas075bge029@wrc.edu.np)
 
 - ⚡ Fun fact **I am strongly curious to learn new thing.**
 
