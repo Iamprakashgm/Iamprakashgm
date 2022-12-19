@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python, Remote Sensing, GIS, GNSS, Cartography, Photogrammetry**
 
-- 📫 Get in Touch through [Email](pas075bge029@wrc.edu.np)
+- 📫 Get in Touch through <a href = "mailto: pas075bge029@wrc.edu.np">Email</a>
 
 - ⚡ Fun fact **I am strongly curious to learn new thing.**
 
