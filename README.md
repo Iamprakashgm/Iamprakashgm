@@ -1,9 +1,9 @@
 <h1 align="center"><img src="https://github.com/Iamprakashgm/Iamprakashgm/blob/main/pngegg.png" width="100">Hey There!!! 👋 Its Prakash Gharti Magar<img src="https://github.com/Iamprakashgm/Iamprakashgm/blob/main/pngegg(2).png" width="100"></h1>
-<h3 align="center">Geomatics Engineering Student | WebGIS Developer | Spatial Data Science | Earth Observation</h3>
+<h3 align="center">Geomatics Engineer | WebGIS Developer | Spatial Data Science | Earth Observation | GeoAI Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamprakashgm&label=Profile%20views&color=0e75b6&style=flat" alt="iamprakashgm" /> </p>
 
-- 🔭 I’m currently working on **Development of WebGIS Data Portal for Utility Management System**
+- 🔭 I have just completed the project **WebGIS Enabled Utility Management and Metric House Numbering System: A Case Study of Annapurna Rural Municipality Ward No. 2**
 
 - 🌱 I’m currently learning **GeoDjango**
 
